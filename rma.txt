@@ -1,0 +1,14 @@
+admin - configure rma - mutivendor admin panel >order menu>rma configuration>add rma>>
+                       detai1 of rma status enab1e/disab1e >>save
+              status  -status
+                       rma types -return/refund 
+                       position 1,2  etc
+                       save/cance1
+                       
+admin  initiate rms -admin>order menu>order isting> se1ect an order>view>rma request>initiate rma
+                     from order detais
+se!!er  -           se11er pane >>order detais >view/rma detai1s>edit
+......................................................................................................................................................................
+natural plugin for cucumber  .  go to  url  
+
+https://rlogiacco.github.io/Natural
